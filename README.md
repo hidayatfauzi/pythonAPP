@@ -1,41 +1,34 @@
-YTA (YouTube Video Downloader)
+PythonApp
 
-YTA (YouTube Video Downloader) adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk mengunduh video dari YouTube dengan mudah dan cepat. Aplikasi ini dibangun menggunakan Python dan beberapa pustaka pihak ketiga seperti yt-dlp dan tqdm_gui.
+PythonApp adalah sebuah repositori yang berisi sebuah aplikasi sederhana yang dikembangkan menggunakan bahasa pemrograman Python. Aplikasi ini memiliki berbagai fitur yang berguna dan dapat dijadikan sebagai contoh atau proyek dasar untuk mempelajari pengembangan perangkat lunak dengan Python.
 
 Fitur Utama:
 
-Mengunduh Video: Pengguna dapat memasukkan URL video dari YouTube dan mengunduhnya ke perangkat mereka.
-Format Pilihan: Aplikasi ini menyediakan opsi untuk memilih format video yang ingin diunduh, termasuk video terbaik dan audio terbaik.
-Progress Bar: Proses pengunduhan ditampilkan dengan menggunakan progress bar untuk memonitor kemajuan unduhan.
+Fitur 1: Deskripsi singkat tentang fitur pertama.
+Fitur 2: Deskripsi singkat tentang fitur kedua.
+Fitur 3: Deskripsi singkat tentang fitur ketiga.
+Struktur Direktori:
+
+/docs: Dokumentasi aplikasi.
+/src: Kode sumber aplikasi.
+/tests: Unit test dan test otomatis.
 Cara Menggunakan:
 
-Buka aplikasi YTA dan masukkan URL video yang ingin Anda unduh dari YouTube.
-Pilih format video yang ingin Anda unduh dari opsi yang disediakan.
-Tunggu hingga proses pengunduhan selesai. Progress bar akan menampilkan kemajuan unduhan.
-Setelah unduhan selesai, video akan disimpan di direktori Desktop Anda.
+Clone repositori ini ke lokal komputer Anda.
+Buka terminal atau command prompt dan navigasikan ke direktori src.
+Jalankan aplikasi dengan perintah: python app.py.
 Persyaratan Sistem:
 
-Sistem Operasi: MacOS
-Python 3.x
-Pustaka yt-dlp
-Pustaka tqdm_gui
-Koneksi internet untuk mengunduh video dari YouTube
-Instalasi:
-
-Pastikan Python 3.x telah terinstal di sistem Anda.
-Instal pustaka yt-dlp menggunakan pip:
-Copy code
-pip install yt-dlp
-Instal pustaka tqdm_gui menggunakan pip:
-Copy code
-pip install tqdm_gui
-Unduh aplikasi YTA dari repositori GitHub ini.
-Jalankan aplikasi dengan menjalankan file ytapp.py menggunakan Python.
+Python 3.x terinstal di komputer Anda.
 Kontribusi:
 
-Kontribusi terhadap pengembangan aplikasi YTA sangat disambut baik. Anda dapat berkontribusi dengan membuat permintaan tarik (pull request) atau melaporkan masalah (issue) di repositori GitHub kami.
+Kontribusi terhadap pengembangan PythonApp sangat disambut baik. Anda dapat berkontribusi dengan membuat permintaan tarik (pull request) atau melaporkan masalah (issue) di repositori ini.
+
+Lisensi:
+
+PythonApp dilisensikan di bawah MIT License.
 
 Catatan Tambahan:
 
-Aplikasi ini hanya untuk penggunaan pribadi dan non-komersial.
-Pengguna bertanggung jawab atas penggunaan dan penyalahgunaan aplikasi ini sesuai dengan hukum yang berlaku.
+Repositori ini dikembangkan untuk tujuan pembelajaran dan demonstrasi.
+Jangan ragu untuk menambahkan fitur atau memperbaiki bug dalam aplikasi.
